@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(puppy.PuppyName)
 
 	fmt.Println(puppy.Family("temp"))
+
+	fmt.Println("Version 1.2.0")
 }
