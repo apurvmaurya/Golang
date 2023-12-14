@@ -1,4 +1,8 @@
 github.com/gitApurv/dog v0.0.0-20231212212748-13bc477a5fd9 h1:BHC7whF5e+LqR7iheKT5o5TeWXrPk4uzV8BCrlBPLUw=
 github.com/gitApurv/dog v0.0.0-20231212212748-13bc477a5fd9/go.mod h1:tAKM+LCv3LMy6HYe9vzBvIAxaZD3JUBrNGIxoTL1v14=
+github.com/gitApurv/dog v1.0.0 h1:F54tfQFYhoX4EDZpKMJe4Dup4TiKVPH4S1cs/U/d6CE=
+github.com/gitApurv/dog v1.0.0/go.mod h1:tAKM+LCv3LMy6HYe9vzBvIAxaZD3JUBrNGIxoTL1v14=
+github.com/gitApurv/dog v1.2.0 h1:AU0kqsrM7CZBYoF4icWx6LEUvd3Rt0HEJpdkX19d1DI=
+github.com/gitApurv/dog v1.2.0/go.mod h1:tAKM+LCv3LMy6HYe9vzBvIAxaZD3JUBrNGIxoTL1v14=
 github.com/gitApurv/puppy v0.0.0-20231212213458-5862aeab57e2 h1:nKWzZbEo0Q8Jv4i4numczccnpPdJODGe0yKMBOrVsOA=
 github.com/gitApurv/puppy v0.0.0-20231212213458-5862aeab57e2/go.mod h1:2yByA+YxlTMUQeo/KHLNsFmi+2yl1d7wAZjkvnQ7I7Q=
