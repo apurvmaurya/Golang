@@ -1,10 +1,9 @@
 package main
 
-import (
-	"github.com/GoesToEleven/puppy"
-)
+import "fmt"
 
 func main() {
-	puppy.From11()
-	puppy.From12()
+	a := []int{1, 2, 3, 4, 5}
+	a = append(a[:2], a[3:]...)
+	fmt.Println(a)
 }
