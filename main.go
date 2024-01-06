@@ -1,9 +1,27 @@
 package main
 
-import "fmt"
+import (
+	"encoding/json"
+	"fmt"
+)
+
+type person struct {
+	First string
+	Last  string
+	Age   int
+}
 
 func main() {
-	a := []int{1, 2, 3, 4, 5}
-	a = append(a[:2], a[3:]...)
-	fmt.Println(a)
+	p1 := person{"Apurv", "Maurya", 18}
+	p2 := person{"Apurv", "Maurya", 18}
+
+	p := []person{p1, p2}
+
+	b, err := json.Marshal(p)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println(string(b))
 }
